@@ -49,8 +49,8 @@ const about = () => {
             <div className='col-span-3 flex flex-col items-start justify-start'>
               <h2 className='mb-4 text-lg font-bold uppercase text-dark/75'>Biography</h2>
               <p className='font-medium'>
-              Hi, I'm Sony Yu. With 5+ years of experience as a software engineer using HTML, CSS, JavaScript, TypeScript, Next.js, MongoDB, Express, React and Node.js. I am always looking for 
-              new and innovative ways to bring my clients' visions to life.
+                Hi, I&apos;m Sony Yu. With 5+ years of experience as a software engineer using HTML, CSS, JavaScript, TypeScript, Next.js, MongoDB, Express, React and Node.js. I am always looking for 
+                new and innovative ways to bring my clients&apos; visions to life.
               </p>
               <p className='my-4 font-medium'>
                 I am skilled in building responsive web applications using media queries, Tailwind CSS, Bootstrap, and Material UI. Additionally, I also have experience in designing schemes and handling data storage in both NoSQL and SQL databases, like MongoDB, PostgreSQL, and Redis. I am familiar with server-side applications with data structures and OOP design patterns for modern web APIs.
