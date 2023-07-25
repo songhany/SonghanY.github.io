@@ -7,6 +7,7 @@ import Link from 'next/link'
 import { LinkArrow } from '@/components/Icons'
 import HireMe from '@/components/HireMe'
 import lightBulb from "../../public/images/svgs/miscellaneous_icons_1.svg"
+import Skills from '@/components/Skills'
 
 export default function Home() {
   return (
@@ -47,9 +48,10 @@ export default function Home() {
         {/* <HireMe /> */}
 
         <div className='absolute right-8 bottom-8 inline-block w-24'>
-          <Image src={lightBulb} alt="img" className='w-3/4 h-auto' />
+          <Image src={lightBulb} alt="img" className='w-full h-auto' />
         </div>
-      </main>
+      </main>      
+      
     </>
   )
 }
