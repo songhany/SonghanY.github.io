@@ -28,7 +28,7 @@ export default function Home() {
             <div className='w-1/2'>
               <AnimatedText text="Sony Yu" className='!text-6xl !text-left'/>
               <p className='my-4 text-base font-medium'>
-                👋 Hi. I&apos;m Sony. A React Developer and Fullstack Engineer. Turing Vision Into Reality With Code And Design. Building products with great visual designs and user experience! 
+                👋 Hi. I&apos;m Songhan Yu. A Fullstack Engineer. Turing Vision Into Reality With Code And Design.
               </p>
               <div className='flex items-center self-start mt-2'>
                 <Link href="/dummy.pdf" target={"_blank"}
