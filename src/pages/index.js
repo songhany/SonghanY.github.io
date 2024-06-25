@@ -26,7 +26,7 @@ export default function Home() {
             </div>
             
             <div className='w-1/2'>
-              <AnimatedText text="Sony Yu" className='!text-6xl !text-left'/>
+              <AnimatedText text="Songhan Yu" className='!text-6xl !text-left'/>
               <p className='my-4 text-base font-medium'>
                 👋 Hi. I&apos;m Songhan Yu. A Fullstack Engineer. Turing Vision Into Reality With Code And Design.
               </p>
